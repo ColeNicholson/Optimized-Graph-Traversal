@@ -1,4 +1,4 @@
-/* This code was written by Cole Nicholson-Rubidoux for CS415s20 Project 2
+/* This code was written by Cole Nicholson-Rubidoux
  * This is an adjacency list representation of a graph with the purpose of this being to calculate the
  * path through the graph which produces the optimal value when each node is given a weight
  */
